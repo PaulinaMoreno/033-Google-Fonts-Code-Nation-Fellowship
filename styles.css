@@ -1,0 +1,16 @@
+h1 {
+	font-family: 'Helvetica';
+}
+
+h2:hover {
+  background-color: yellow;
+}
+img {
+	border: 10px dotted blue;
+}
+.codenation {
+	color: #fcc203;
+}
+.google {
+	font-family: 'Abel', sans-serif;
+}
